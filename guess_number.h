@@ -1,0 +1,4 @@
+#ifndef CPP_GAME_TEAM_GUESS_NUMBER_H
+#define CPP_GAME_TEAM_GUESS_NUMBER_H
+void guessNumber();
+#endif //CPP_GAME_TEAM_GUESS_NUMBER_H
